@@ -56,8 +56,7 @@ body {font-family: "Lato", sans-serif}
     <h2 class="w3-wide">O meni</h2>
     <p class="w3-opacity"><i>Bogdan Jovic</i></p>
     <p class="w3-justify">Rođen sam 26.12.2000. u Valjevu.
-Studiram poslovnu informatiku na <a href=https://vipos.edu.rs/index.php/sr/ " target="_blank"
-title="Akademija strukovnih studija Zapadne Srbije">Akademije strukovnih studija Zapadne Srbije</a>-odsek Valjevo.
+Studiram poslovnu informatiku na Akademije strukovnih studija Zapadne Srbije</a>-odsek Valjevo.
 Završio sam srednju ekonomsku školu u Valjevu. Svoje slobdno vreme provodim sa porodicom.Treniram fudbal vec 14 godina,ozbiljo se time bavim i zelja mi je igrati za OFK Beograd.Moj idol je moj stariji brat Nikola</p>
    
         <p>Upoznajte me</p>
