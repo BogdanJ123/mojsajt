@@ -1,5 +1,4 @@
 # mojsajt
-<!DOCTYPE html>
 <html lang="en">
 <title>Bogdan Jovic 8111/19</title>
 <meta charset="UTF-8">
@@ -31,8 +30,7 @@ body {font-family: "Lato", sans-serif}
   <a href="#o meni" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">O MENI</a>
   <a href="#ono što niste znali o meni" class="w3-bar-item w3-button w3-padding-large w3-hide-small">ONO ŠTO NISTE ZNALI O MENI</a>
   <a href="#contact" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">KONTAKT</a>
-</div>
-<img src="logo-akademija-zs-plavi.jpg" style="max-width:800px;margin-top:30px"
+
 
 <!-- Page content -->
 <div class="w3-content w3-magenta" style="max-width:2000px;margin-top:46px">
